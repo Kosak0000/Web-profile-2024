@@ -20,10 +20,10 @@ const Profile = (props: Props) => {
         <p className="text-base">Software Engineer</p>
       </div>
 
-      <div className="py-10 text-center ">" 2 1 2 and 2 2 4 "</div>
+      <div className="py-10 text-center ">" Make difficult things easy  It's not about making something easy become difficult. "</div>
       <div className="p-6 mx-1 xl:mx-6 bg-blue-300 rounded-md">
         <p>
-          <b>Age:</b> 20
+          <b>Age:</b> 20 Na
         </p>
         <p>
           <b>Status:</b> SingleNi
