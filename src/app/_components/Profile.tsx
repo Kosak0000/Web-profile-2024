@@ -22,6 +22,7 @@ const Profile = (props: Props) => {
 
       <div className="py-10 text-center ">" Make difficult things easy  It's not about making something easy become difficult. "</div>
       <div className="p-6 mx-1 xl:mx-6 bg-blue-300 rounded-md">
+        <b>Personal Information</b>
         <p>
           <b>Age:</b> 20 Na
         </p>
@@ -30,6 +31,19 @@ const Profile = (props: Props) => {
         </p>
         <p>
           <b>Location:</b> NakhonSi
+        </p>
+      </div>
+
+      <div className="p-6 mx-1 xl:mx-6 bg-blue-300 rounded-md mt-6">
+        <b>Hobby</b>
+        <p>
+          <p>Interested in investing</p> 
+        </p>
+        <p>
+          <p>Like playing games</p> 
+        </p>
+        <p>
+          <p>cooking</p> 
         </p>
       </div>
     </div>
