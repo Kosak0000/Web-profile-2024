@@ -7,6 +7,7 @@ import {
   faReact,
   faRust,
   faVuejs,
+  faHtml5,
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Card from "./common/Card";
@@ -18,8 +19,8 @@ const Skill = (props: Props) => {
     <Card title="Skill">
       <div className="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
         <div className="text-center">
-          <FontAwesomeIcon icon={faPhp} className="h-10" />
-          <p>PHP</p>
+          <FontAwesomeIcon icon={faHtml5} className="h-10" />
+          <p>Html5</p>
         </div>
         <div className="text-center">
           <FontAwesomeIcon icon={faPython} className="h-10" />
